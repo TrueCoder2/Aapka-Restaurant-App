@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AapkaRestaurant/static/css/main.595f0d7f.css",
+    "main.js": "/AapkaRestaurant/static/js/main.48fc6665.js",
+    "index.html": "/AapkaRestaurant/index.html",
+    "main.595f0d7f.css.map": "/AapkaRestaurant/static/css/main.595f0d7f.css.map",
+    "main.48fc6665.js.map": "/AapkaRestaurant/static/js/main.48fc6665.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.595f0d7f.css",
+    "static/js/main.48fc6665.js"
+  ]
+}
